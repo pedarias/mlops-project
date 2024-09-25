@@ -1,4 +1,4 @@
 [core]
-    remote = myremote
-['remote "myremote"']
-    url = E:\datasets\insurance-dataset
+    remote = local_remote
+['remote "local_remote"']
+    url = /home/hub/Desktop/ccode/mlops-project1/dvc_remote_storage
